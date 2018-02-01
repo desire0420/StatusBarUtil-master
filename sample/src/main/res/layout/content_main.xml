@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="喜马拉雅电台是中国知名的音频分享平台,海
+                量内容包括有声书,相声段子,音乐,新闻,综艺娱乐、儿
+                童、情感生活、评书、外语、培训讲座、百家讲坛、广播剧、历史人文、电台..." />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="喜马拉雅电台是中国知名的音频分享平台,海
+                量内容包括有声书,相声段子,音乐,新闻,综艺娱乐、儿
+                童、情感生活、评书、外语、培训讲座、百家讲坛、广播剧、历史人文、电台..." />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="喜马拉雅电台是中国知名的音频分享平台,海
+                量内容包括有声书,相声段子,音乐,新闻,综艺娱乐、儿
+                童、情感生活、评书、外语、培训讲座、百家讲坛、广播剧、历史人文、电台..." />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="喜马拉雅电台是中国知名的音频分享平台,海
+                量内容包括有声书,相声段子,音乐,新闻,综艺娱乐、儿
+                童、情感生活、评书、外语、培训讲座、百家讲坛、广播剧、历史人文、电台..." />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="喜马拉雅电台是中国知名的音频分享平台,海
+                量内容包括有声书,相声段子,音乐,新闻,综艺娱乐、儿
+                童、情感生活、评书、外语、培训讲座、百家讲坛、广播剧、历史人文、电台..." />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="喜马拉雅电台是中国知名的音频分享平台,海
+                量内容包括有声书,相声段子,音乐,新闻,综艺娱乐、儿
+                童、情感生活、评书、外语、培训讲座、百家讲坛、广播剧、历史人文、电台..." />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="喜马拉雅电台是中国知名的音频分享平台,海
+                量内容包括有声书,相声段子,音乐,新闻,综艺娱乐、儿
+                童、情感生活、评书、外语、培训讲座、百家讲坛、广播剧、历史人文、电台..." />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="喜马拉雅电台是中国知名的音频分享平台,海
+                量内容包括有声书,相声段子,音乐,新闻,综艺娱乐、儿
+                童、情感生活、评书、外语、培训讲座、百家讲坛、广播剧、历史人文、电台..." />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="喜马拉雅电台是中国知名的音频分享平台,海
+                量内容包括有声书,相声段子,音乐,新闻,综艺娱乐、儿
+                童、情感生活、评书、外语、培训讲座、百家讲坛、广播剧、历史人文、电台..." />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="喜马拉雅电台是中国知名的音频分享平台,海
+                量内容包括有声书,相声段子,音乐,新闻,综艺娱乐、儿
+                童、情感生活、评书、外语、培训讲座、百家讲坛、广播剧、历史人文、电台..." />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>
